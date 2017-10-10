@@ -1,2 +1,3 @@
 # noughts-and-crosses
-noughts and crosses
+
+Simple C# noughts and crosses application
