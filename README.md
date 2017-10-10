@@ -1,3 +1,3 @@
-# noughts-and-crosses
+# Tic-tac-toe
 
-Simple C# noughts and crosses application
+Simple C# tic-tac-toe application
